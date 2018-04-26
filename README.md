@@ -1,3 +1,3 @@
 # pensePy
 ## Autoria de Willyam Stepham
-Exercícios do Livro Pense Py
+Exercícios do Pense Py
